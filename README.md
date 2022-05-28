@@ -1,4 +1,16 @@
-Hi there! My name is Nic and I have been coding for two years. Topics and technologies that interest me include machine learning, blockchain development and cybersecurity.
+# Nicholas Holtzhausen // Software Developer
+
+## Bio
+Computer Science and Operations Research student in Stellenbosch, South Africa. I am currently teaching myself full-stack web development, but have other interests in the world of computer science such as quantitative trading, machine learning, cyber security and blockchain development.
+
+## Skills
+- Database Design
+- REST API devlopment
+- Flask
+- SQL
+- Node.js
+- Express
+- MongoDB
 
 <!---
 nicoftheshire/nicoftheshire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

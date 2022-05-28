@@ -5,7 +5,7 @@ Computer Science and Operations Research student in Stellenbosch, South Africa. 
 
 ## Skills
 - Database Design
-- REST API devlopment
+- REST API development
 - Flask
 - SQL
 - Node.js

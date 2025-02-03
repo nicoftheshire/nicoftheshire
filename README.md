@@ -1,6 +1,6 @@
 # Nicholas Holtzhausen
 
-Software // Business // AI
+Software // Finance // AI
 
 <!---
 nicoftheshire/nicoftheshire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
